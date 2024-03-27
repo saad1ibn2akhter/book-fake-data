@@ -34,7 +34,7 @@
         "yearofPublishing": 1949
     },
     {
-        "id": 8,
+        "id": 3,
         "name": "The Great Gatsby",
         "author": "F. Scott Fitzgerald",
         "image": "https://i.weltbild.de/p/der-grosse-gatsby-2013-071865136.jpg?v=3&wp=_ads-scroller-mobile",
@@ -51,7 +51,7 @@
         "yearofPublishing": 1925
     },
     {
-        "id": 9,
+        "id": 4,
         "name": "Pride and Prejudice",
         "author": "Jane Austen",
         "image": "https://m.media-amazon.com/images/I/81WEdRhHhAL._AC_UF894,1000_QL80_.jpg",
@@ -68,7 +68,7 @@
         "yearofPublishing": 1813
     },
     {
-        "id": 6,
+        "id": 5,
         "name": "The Catcher in the Rye",
         "author": "J.D. Salinger",
         "image": "https://orion-uploads.openroadmedia.com/xl_7327ab-catcher-in-the-rye-blue.jpg",
@@ -85,7 +85,7 @@
         "yearofPublishing": 1951
     },
     {
-        "id": 5,
+        "id": 6,
         "name": "The Lord of the Rings",
         "author": "J.R.R. Tolkien",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi-l6gNaxcoWgbpXNRC3IBaDi1HmDXdbL6Ve7zk_lrRg&s",
@@ -102,7 +102,7 @@
         "yearofPublishing": 1954
     },
     {
-        "id": 4,
+        "id": 7,
         "name": "Dipu Number 2",
         "author": "Jafar Iqbal",
         "image": "https://m.media-amazon.com/images/M/MV5BYzkxNjA5N2ItMTczNS00OGNhLWIwNjEtNzM2NWY0NTk1NGI3XkEyXkFqcGdeQXVyNjY1ODYwODI@._V1_.jpg",
@@ -119,7 +119,7 @@
         "yearofPublishing": 1960
     },
     {
-        "id": 3,
+        "id": 8,
         "name": "The Alchemist",
         "author": "Paulo Coelho",
         "image": "https://media.istockphoto.com/id/1006115078/photo/the-alchemist.jpg?s=612x612&w=0&k=20&c=ZQ8_7jLrU8s5VFmDmCdVH0RNVofAPwUD8GaLP3O5vFw=",
@@ -136,7 +136,7 @@
         "yearofPublishing": 1949
     },
     {
-        "id": 7,
+        "id": 9,
         "name": "The IMO compendium",
         "author": "F. Scott Fitzgerald",
         "image": "https://images-eu.ssl-images-amazon.com/images/I/317AUM3I8hL._AC_UL600_SR600,600_.jpg",
